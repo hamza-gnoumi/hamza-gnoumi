@@ -9,7 +9,7 @@ Motivated full-stack developer. I have acquired solid proficiency in Spring Boot
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [hamzagnoumi@yahoo.fr](mailto:hamzagnoumi@yahoo.fr)
 * ⚡  I'm Handball Player
-
+ <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJhcTNreXV2NG1qamt5Z2Z5M203dnE5YmM0MHA4ZDN3Mzdsd3hpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/mGasM06BJXWs7KLubN/giphy.gif" width="400" height="320" />
 ### Skills
 
 
