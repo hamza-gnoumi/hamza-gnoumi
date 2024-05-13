@@ -11,7 +11,7 @@ Motivated full-stack developer. I have acquired solid proficiency in Spring Boot
 * ⚡  I'm Handball Player
  <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJhcTNreXV2NG1qamt5Z2Z5M203dnE5YmM0MHA4ZDN3Mzdsd3hpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/mGasM06BJXWs7KLubN/giphy.gif" width="400" height="320" />
  
-### Skills
+### 💅🏻 Languages & Tools
 
 
 <p align="left">
@@ -19,7 +19,7 @@ Motivated full-stack developer. I have acquired solid proficiency in Spring Boot
 </p>
 
 
-### Socials
+### 📱 Let's Connect
 
 <p align="left"> <a href="https://www.github.com/hamza-gnoumi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/hamza-gnoumi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
